@@ -2,7 +2,12 @@
 
 A new Flutter application.
 
-## Getting Started
+## Screen
+
+![1](https://user-images.githubusercontent.com/65519308/97174818-a5944d80-17a3-11eb-9abf-8291c1add708.png)
+![2](https://user-images.githubusercontent.com/65519308/97174825-a88f3e00-17a3-11eb-8930-66d8bf084315.png)
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
